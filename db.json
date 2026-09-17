@@ -5,5 +5,31 @@
       "username": "jurandir@gmail.com",
       "password": "123456"
     }
+  ],
+  "frequencia": {
+    "aluno": "Roberta",
+    "presencas": 9,
+    "ausencias": 1,
+    "totalAulas": 10,
+    "porcentagem": "90%",
+    "anoLetivo": 2027
+  },
+  "aulasHoje": {
+    "data": "12 ago",
+    "horarios": []
+  },
+  "avisos": [
+    {
+      "id": 1,
+      "data": "08",
+      "mes": "ago",
+      "descricao": "Está disponível a consulta das faltas parciais dos alunos, acesse o link"
+    },
+    {
+      "id": 2,
+      "data": "17",
+      "mes": "ago",
+      "descricao": "Atenção: O aluno atingiu 15% de faltas em Matemática.Lembramos que o limite para a aprovação é 25% no ano letivo"
+    }
   ]
 }
